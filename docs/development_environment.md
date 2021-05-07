@@ -27,7 +27,7 @@ The easiest way to get started with development is to use Visual Studio Code wit
 2. Clone the repository to your computer. Windows users need to [place their files within WSL file system](https://code.visualstudio.com/docs/remote/containers#_open-a-wsl-2-folder-in-a-container-on-windows) to prevent performance degradation.
 3. Open the repository using Visual Studio code.
 
-When you open this repository with Visual Studio code you are asked to "Reopen in Container", this will start the build of the container.
+When you open this repository with Visual Studio code you are asked to "Reopen in Container", this will start the build of the container.  Alternatively, you can select 'Rebuild and Reopen in Container' from the Command Palette.
 
 ### Tasks
 
