@@ -3,7 +3,7 @@ title: Core Architecture
 sidebar_label: Core
 ---
 
-The Home Assistant Core consists of four core parts. In addition, helper classes are provided to deal with common scenario's, like providing an entity or dealing with locations.
+The Home Assistant Core consists of four core parts. In addition, helper classes are provided to deal with common scenarios, such as providing an entity or dealing with locations.
 
 - **Event Bus**: facilitates the firing and listening of events -- the beating heart of Home Assistant.
 - **State Machine**: keeps track of the states of things and fires a `state_changed` event when a state has been changed.
